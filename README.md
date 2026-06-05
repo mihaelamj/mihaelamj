@@ -6,8 +6,7 @@ I build Swift-first developer tools, native Apple-platform apps, OpenAPI workflo
 💼 [in/mihaelamj](https://www.linkedin.com/in/mihaelamj) ·
 🐘 [@ameahim](https://mastodon.social/@ameahim) ·
 🦋 [@dijamantina](https://bsky.app/profile/dijamantina.bsky.social) ·
-𝕏 [@diyamantina](https://x.com/diyamantina) ·
-🐙 [TileDown](https://github.com/TileDown)
+𝕏 [@diyamantina](https://x.com/diyamantina)
 
 ## What I'm Building
 
