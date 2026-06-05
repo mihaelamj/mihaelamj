@@ -14,7 +14,7 @@ I'm a senior iOS/macOS engineer in Croatia, working mostly in Swift, Apple-platf
 
 ## What I'm Building
 
-- 📚 [Cupertino](https://github.com/mihaelamj/cupertino), a local Apple documentation crawler and MCP server for AI assistants.
+- 🍎📚 [Cupertino](https://github.com/mihaelamj/cupertino), a local Apple documentation crawler and MCP server for AI assistants.
 - 🧱 [TileDown](https://github.com/TileDown/tile-down), a tile-native static site generator for typed page composition.
 - 📄 [MarkdownPDF](https://github.com/mihaelamj/MarkdownPDF), a pure Swift Markdown-to-PDF renderer for macOS and Linux.
 - 🧠 [iRelay](https://github.com/mihaelamj/iRelay), an Apple-native personal AI assistant for macOS and iOS.
