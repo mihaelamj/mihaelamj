@@ -20,7 +20,6 @@ I'm a senior iOS/macOS engineer in Croatia, working mostly in Swift, Apple-platf
 - [iRelay](https://github.com/mihaelamj/iRelay), an Apple-native personal AI assistant for macOS and iOS.
 - [OpenAPIDoctor](https://github.com/mihaelamj/OpenAPIDoctor), Swift tooling for diagnosing and repairing OpenAPI specs.
 - [cvbuilder](https://github.com/mihaelamj/cvbuilder), a generic CV builder.
-- [Templatomat](https://github.com/Templatomat), Xcode template tooling and archives.
 - [Cjenoslava](https://github.com/Cjenoslava), Swift data models, parsers, and persistence for Croatian price tracking.
 
 ## Useful Projects
@@ -43,7 +42,6 @@ I'm a senior iOS/macOS engineer in Croatia, working mostly in Swift, Apple-platf
 | [MathTypeset](https://github.com/mihaelamj/MathTypeset) | Pure-Swift TeX math subset parser, layout engine, and renderer |
 | [PureYAML](https://github.com/mihaelamj/PureYAML) | Swift YAML work |
 | [cvbuilder](https://github.com/mihaelamj/cvbuilder) | Generic CV builder |
-| [Templatomat xcode-templates-data](https://github.com/Templatomat/xcode-templates-data) | Archive of default and custom Xcode templates |
 | [NativeKit](https://github.com/mihaelamj/NativeKit) | Cross-platform AppKit/UIKit abstraction helpers |
 | [ExtremePackaging](https://github.com/mihaelamj/ExtremePackaging) | Modular Swift app architecture demo |
 
@@ -54,7 +52,6 @@ I'm a senior iOS/macOS engineer in Croatia, working mostly in Swift, Apple-platf
 | [CodeWeaverHQ](https://github.com/CodeWeaverHQ) | Swift app templates, OpenAPI specs, and reusable build skills |
 | [TileDown](https://github.com/TileDown) | Typed-tile static site generation |
 | [Cjenoslava](https://github.com/Cjenoslava) | Price data ingestion, parsing, and persistence |
-| [Templatomat](https://github.com/Templatomat) | Xcode template tooling and archives |
 | [NodetteHQ](https://github.com/NodetteHQ) | OpenAPI/native-tooling experiments |
 
 ## Elsewhere
