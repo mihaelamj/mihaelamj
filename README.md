@@ -2,14 +2,16 @@
 
 I build Swift-first developer tools, native Apple-platform apps, OpenAPI workflows, and AI-assisted engineering systems for Apple platforms and Linux.
 
-[![Website](https://img.shields.io/badge/Website-aleahim.com-0A66C2?style=flat&logo=safari&logoColor=white)](https://aleahim.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mihaelamj-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihaelamj)
-[![Mastodon](https://img.shields.io/badge/Mastodon-%40ameahim-6364FF?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@ameahim)
-[![Bluesky](https://img.shields.io/badge/Bluesky-%40dijamantina-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/dijamantina.bsky.social)
-[![X](https://img.shields.io/badge/X-%40diyamantina-000000?style=flat&logo=x&logoColor=white)](https://x.com/diyamantina)
-[![Cupertino MCP](https://img.shields.io/badge/X-%40cupertinomcp-000000?style=flat&logo=x&logoColor=white)](https://x.com/cupertinomcp)
-[![Hacker News](https://img.shields.io/badge/Hacker%20News-mihaela-FF6600?style=flat&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=mihaela)
-[![TileDown](https://img.shields.io/badge/GitHub-TileDown-24292F?style=flat&logo=github&logoColor=white)](https://github.com/TileDown)
+<p>
+  <a href="https://aleahim.com"><img src="https://cdn.simpleicons.org/safari/0A66C2" alt="Website" width="22" height="22"></a>
+  <a href="https://www.linkedin.com/in/mihaelamj"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="22" height="22"></a>
+  <a href="https://mastodon.social/@ameahim"><img src="https://cdn.simpleicons.org/mastodon/6364FF" alt="Mastodon" width="22" height="22"></a>
+  <a href="https://bsky.app/profile/dijamantina.bsky.social"><img src="https://cdn.simpleicons.org/bluesky/0285FF" alt="Bluesky" width="22" height="22"></a>
+  <a href="https://x.com/diyamantina"><img src="https://cdn.simpleicons.org/x/111111" alt="X @diyamantina" width="22" height="22"></a>
+  <a href="https://x.com/cupertinomcp"><img src="https://cdn.simpleicons.org/x/111111" alt="X @cupertinomcp" width="22" height="22"></a>
+  <a href="https://news.ycombinator.com/user?id=mihaela"><img src="https://cdn.simpleicons.org/ycombinator/FF6600" alt="Hacker News" width="22" height="22"></a>
+  <a href="https://github.com/TileDown"><img src="https://cdn.simpleicons.org/github/24292F" alt="TileDown" width="22" height="22"></a>
+</p>
 
 ## What I'm Building
 
