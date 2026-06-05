@@ -22,38 +22,6 @@ I'm a senior iOS/macOS engineer in Croatia, working mostly in Swift, Apple-platf
 - [cvbuilder](https://github.com/mihaelamj/cvbuilder), a generic CV builder.
 - [Cjenoslava](https://github.com/Cjenoslava), Swift data models, parsers, and persistence for Croatian price tracking.
 
-## Useful Projects
-
-| Project | Focus |
-| --- | --- |
-| [cupertino](https://github.com/mihaelamj/cupertino) | Apple Developer documentation, offline docs, MCP server, Swift CLI |
-| [cupertino-desktop](https://github.com/mihaelamj/cupertino-desktop) | Native macOS browser for Apple docs, Swift Evolution, and sample code |
-| [cupertino-docs](https://github.com/mihaelamj/cupertino-docs) | Pre-crawled Apple and Swift documentation corpus for Cupertino |
-| [cupertino-sample-code](https://github.com/mihaelamj/cupertino-sample-code) | Apple sample-code corpus cleaned for local browsing and indexing |
-| [TileDown](https://github.com/TileDown/tile-down) | Tile-native static site generator for GitHub Pages |
-| [CodeWeaver Swift server examples](https://github.com/CodeWeaverHQ/codeweaver-ss-examples) | Reference Swift-server demos generated from CodeWeaver skills |
-| [iRelay](https://github.com/mihaelamj/iRelay) | Apple-native personal AI assistant for macOS and iOS |
-| [OpenAPIDoctor](https://github.com/mihaelamj/OpenAPIDoctor) | Diagnose and repair OpenAPI 3.x specs with Swift tooling |
-| [Stitcher](https://github.com/mihaelamj/Stitcher) | Resolve external OpenAPI `$ref` references across files and folders |
-| [SwiftMCPCore](https://github.com/mihaelamj/SwiftMCPCore) | Dependency-free MCP wire-protocol core for Swift |
-| [SwiftMCPClient](https://github.com/mihaelamj/SwiftMCPClient) | Transport-injectable MCP client for Swift |
-| [SwiftMCPServer](https://github.com/mihaelamj/SwiftMCPServer) | Transport-injectable MCP server for Swift |
-| [MarkdownPDF](https://github.com/mihaelamj/MarkdownPDF) | Markdown parsing, layout, and PDF serialization in pure Swift |
-| [MathTypeset](https://github.com/mihaelamj/MathTypeset) | Pure-Swift TeX math subset parser, layout engine, and renderer |
-| [PureYAML](https://github.com/mihaelamj/PureYAML) | Swift YAML work |
-| [cvbuilder](https://github.com/mihaelamj/cvbuilder) | Generic CV builder |
-| [NativeKit](https://github.com/mihaelamj/NativeKit) | Cross-platform AppKit/UIKit abstraction helpers |
-| [ExtremePackaging](https://github.com/mihaelamj/ExtremePackaging) | Modular Swift app architecture demo |
-
-## Organizations
-
-| Organization | Focus |
-| --- | --- |
-| [CodeWeaverHQ](https://github.com/CodeWeaverHQ) | Swift app templates, OpenAPI specs, and reusable build skills |
-| [TileDown](https://github.com/TileDown) | Typed-tile static site generation |
-| [Cjenoslava](https://github.com/Cjenoslava) | Price data ingestion, parsing, and persistence |
-| [NodetteHQ](https://github.com/NodetteHQ) | OpenAPI/native-tooling experiments |
-
 ## Elsewhere
 
 - Writing: [aleahim.com](https://aleahim.com)
