@@ -25,4 +25,3 @@ I'm a senior iOS/macOS engineer in Croatia, working mostly in Swift, Apple-platf
 ## Elsewhere
 
 - Writing: [aleahim.com](https://aleahim.com)
-- LinkedIn: [linkedin.com/in/mihaelamj](https://www.linkedin.com/in/mihaelamj)
