@@ -19,5 +19,8 @@ I'm a senior iOS/macOS engineer in Croatia, working mostly in Swift, Apple-platf
 - [MarkdownPDF](https://github.com/mihaelamj/MarkdownPDF), a pure Swift Markdown-to-PDF renderer for macOS and Linux.
 - [iRelay](https://github.com/mihaelamj/iRelay), an Apple-native personal AI assistant for macOS and iOS.
 - [OpenAPIDoctor](https://github.com/mihaelamj/OpenAPIDoctor), Swift tooling for diagnosing and repairing OpenAPI specs.
+- [Stitcher](https://github.com/mihaelamj/Stitcher), Swift tooling for resolving external OpenAPI references across files and folders.
+- [OpenAPILoggingMiddleware](https://github.com/mihaelamj/OpenAPILoggingMiddleware), configurable logging middleware for OpenAPI client and server implementations.
+- [BearerTokenAuthMiddleware](https://github.com/mihaelamj/BearerTokenAuthMiddleware), bearer-token authentication middleware for server-side Swift.
 - [cvbuilder](https://github.com/mihaelamj/cvbuilder), a generic CV builder.
 - [PureYAML](https://github.com/mihaelamj/PureYAML), Swift YAML tooling.
