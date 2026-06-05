@@ -9,7 +9,6 @@ I build Swift-first developer tools, native Apple-platform apps, OpenAPI workflo
 [![X](https://img.shields.io/badge/X-%40diyamantina-000000?style=flat&logo=x&logoColor=white)](https://x.com/diyamantina)
 [![Cupertino MCP](https://img.shields.io/badge/X-%40cupertinomcp-000000?style=flat&logo=x&logoColor=white)](https://x.com/cupertinomcp)
 [![Hacker News](https://img.shields.io/badge/Hacker%20News-mihaela-FF6600?style=flat&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=mihaela)
-[![CodeWeaver](https://img.shields.io/badge/GitHub-CodeWeaverHQ-24292F?style=flat&logo=github&logoColor=white)](https://github.com/CodeWeaverHQ)
 [![TileDown](https://img.shields.io/badge/GitHub-TileDown-24292F?style=flat&logo=github&logoColor=white)](https://github.com/TileDown)
 
 ## What I'm Building
