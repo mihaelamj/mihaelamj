@@ -20,6 +20,7 @@ I build Swift-first developer tools, native Apple-platform apps, OpenAPI workflo
 - 🩺 [OpenAPIDoctor](https://github.com/mihaelamj/OpenAPIDoctor), Swift tooling for diagnosing and repairing OpenAPI specs.
 - 🧵 [Stitcher](https://github.com/mihaelamj/Stitcher), Swift tooling for resolving external OpenAPI references across files and folders.
 - 📝 [OpenAPILoggingMiddleware](https://github.com/mihaelamj/OpenAPILoggingMiddleware), configurable logging middleware for OpenAPI client and server implementations.
+- 🌐 [ClientIpMiddleware](https://github.com/mihaelamj/ClientIpMiddleware), Vapor middleware for carrying client IP and user-agent context into generated OpenAPI handlers.
 - 🔐 [BearerTokenAuthMiddleware](https://github.com/mihaelamj/BearerTokenAuthMiddleware), bearer-token authentication middleware for server-side Swift.
 - 💼 [cvbuilder](https://github.com/mihaelamj/cvbuilder), a generic CV builder.
 - 🧾 [PureYAML](https://github.com/mihaelamj/PureYAML), Swift YAML tooling.
