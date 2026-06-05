@@ -19,5 +19,5 @@ I build Swift-first developer tools, native Apple-platform apps, OpenAPI workflo
 - 📝 [OpenAPILoggingMiddleware](https://github.com/mihaelamj/OpenAPILoggingMiddleware), configurable logging middleware for OpenAPI client and server implementations.
 - 🌐 [ClientIpMiddleware](https://github.com/mihaelamj/ClientIpMiddleware), Vapor middleware for carrying client IP and user-agent context into generated OpenAPI handlers.
 - 🔐 [BearerTokenAuthMiddleware](https://github.com/mihaelamj/BearerTokenAuthMiddleware), bearer-token authentication middleware for server-side Swift.
-- 💼 [cvbuilder](https://github.com/mihaelamj/cvbuilder), CVBuilder, a Swift generator for evidence-based technical CVs.
-- 🧾 [PureYAML](https://github.com/mihaelamj/PureYAML), PureYAML, a dependency-free Swift YAML parser and emitter for Apple platforms, Linux, and WASI.
+- 💼 [CVBuilder](https://github.com/mihaelamj/cvbuilder), a Swift generator for evidence-based technical CVs.
+- 🧾 [PureYAML](https://github.com/mihaelamj/PureYAML), a dependency-free Swift YAML parser and emitter for Apple platforms, Linux, and WASI.
