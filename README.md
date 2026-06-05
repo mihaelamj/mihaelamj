@@ -1,6 +1,6 @@
 # Hey, I'm Mihaela
 
-I build Swift-first developer tools, native Apple-platform apps, OpenAPI workflows, and practical AI-assisted engineering systems across Apple platforms and Linux, with the occasional WebAssembly edge.
+I build Swift-first developer tools, native Apple-platform apps, OpenAPI workflows, and practical AI-assisted engineering systems across Apple platforms and Linux, with occasional WebAssembly work.
 
 [![Website](https://img.shields.io/badge/Website-aleahim.com-0A66C2?style=flat&logo=safari&logoColor=white)](https://aleahim.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mihaelamj-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihaelamj)
