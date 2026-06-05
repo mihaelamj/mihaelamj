@@ -2,16 +2,14 @@
 
 I build Swift-first developer tools, native Apple-platform apps, OpenAPI workflows, and AI-assisted engineering systems for Apple platforms and Linux.
 
-<p>
-  <a href="https://aleahim.com"><img src="https://cdn.simpleicons.org/safari/0A66C2" alt="Website" width="22" height="22"></a>
-  <a href="https://www.linkedin.com/in/mihaelamj"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="22" height="22"></a>
-  <a href="https://mastodon.social/@ameahim"><img src="https://cdn.simpleicons.org/mastodon/6364FF" alt="Mastodon" width="22" height="22"></a>
-  <a href="https://bsky.app/profile/dijamantina.bsky.social"><img src="https://cdn.simpleicons.org/bluesky/0285FF" alt="Bluesky" width="22" height="22"></a>
-  <a href="https://x.com/diyamantina"><img src="https://cdn.simpleicons.org/x/111111" alt="X @diyamantina" width="22" height="22"></a>
-  <a href="https://x.com/cupertinomcp"><img src="https://cdn.simpleicons.org/x/111111" alt="X @cupertinomcp" width="22" height="22"></a>
-  <a href="https://news.ycombinator.com/user?id=mihaela"><img src="https://cdn.simpleicons.org/ycombinator/FF6600" alt="Hacker News" width="22" height="22"></a>
-  <a href="https://github.com/TileDown"><img src="https://cdn.simpleicons.org/github/24292F" alt="TileDown" width="22" height="22"></a>
-</p>
+[Website](https://aleahim.com) ·
+[LinkedIn](https://www.linkedin.com/in/mihaelamj) ·
+[Mastodon @ameahim](https://mastodon.social/@ameahim) ·
+[Bluesky @dijamantina](https://bsky.app/profile/dijamantina.bsky.social) ·
+[X @diyamantina](https://x.com/diyamantina) ·
+[X @cupertinomcp](https://x.com/cupertinomcp) ·
+[HN mihaela](https://news.ycombinator.com/user?id=mihaela) ·
+[GitHub TileDown](https://github.com/TileDown)
 
 ## What I'm Building
 
