@@ -1,6 +1,6 @@
 # Hey, I'm Mihaela
 
-I'm a senior iOS/macOS engineer in Croatia, working mostly in Swift, Apple-platform tooling, OpenAPI, modular architectures, and practical AI-assisted developer tools.
+I build Swift-first developer tools, native Apple-platform apps, OpenAPI workflows, and practical AI-assisted engineering systems.
 
 [![Website](https://img.shields.io/badge/Website-aleahim.com-0A66C2?style=flat&logo=safari&logoColor=white)](https://aleahim.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mihaelamj-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihaelamj)
