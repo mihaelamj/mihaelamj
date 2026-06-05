@@ -20,3 +20,4 @@ I'm a senior iOS/macOS engineer in Croatia, working mostly in Swift, Apple-platf
 - [iRelay](https://github.com/mihaelamj/iRelay), an Apple-native personal AI assistant for macOS and iOS.
 - [OpenAPIDoctor](https://github.com/mihaelamj/OpenAPIDoctor), Swift tooling for diagnosing and repairing OpenAPI specs.
 - [cvbuilder](https://github.com/mihaelamj/cvbuilder), a generic CV builder.
+- [PureYAML](https://github.com/mihaelamj/PureYAML), Swift YAML tooling.
