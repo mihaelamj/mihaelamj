@@ -2,14 +2,14 @@
 
 I build Swift-first developer tools, native Apple-platform apps, OpenAPI workflows, and AI-assisted engineering systems for Apple platforms and Linux.
 
-[Website](https://aleahim.com) ·
-[LinkedIn](https://www.linkedin.com/in/mihaelamj) ·
-[Mastodon @ameahim](https://mastodon.social/@ameahim) ·
-[Bluesky @dijamantina](https://bsky.app/profile/dijamantina.bsky.social) ·
-[X @diyamantina](https://x.com/diyamantina) ·
-[X @cupertinomcp](https://x.com/cupertinomcp) ·
-[HN mihaela](https://news.ycombinator.com/user?id=mihaela) ·
-[GitHub TileDown](https://github.com/TileDown)
+🌐 [aleahim.com](https://aleahim.com) ·
+💼 [in/mihaelamj](https://www.linkedin.com/in/mihaelamj) ·
+🐘 [@ameahim](https://mastodon.social/@ameahim) ·
+🦋 [@dijamantina](https://bsky.app/profile/dijamantina.bsky.social) ·
+𝕏 [@diyamantina](https://x.com/diyamantina) ·
+𝕏 [@cupertinomcp](https://x.com/cupertinomcp) ·
+🟧 [HN mihaela](https://news.ycombinator.com/user?id=mihaela) ·
+🐙 [TileDown](https://github.com/TileDown)
 
 ## What I'm Building
 
