@@ -18,6 +18,8 @@ I'm a senior iOS/macOS engineer in Croatia, working mostly in Swift, Apple-platf
 - [TileDown](https://github.com/TileDown/tile-down), a tile-native static site generator for typed page composition.
 - [MarkdownPDF](https://github.com/mihaelamj/MarkdownPDF), a pure Swift Markdown-to-PDF renderer for macOS and Linux.
 - [iRelay](https://github.com/mihaelamj/iRelay), an Apple-native personal AI assistant for macOS and iOS.
+- [OpenAPIDoctor](https://github.com/mihaelamj/OpenAPIDoctor), Swift tooling for diagnosing and repairing OpenAPI specs.
+- [cvbuilder](https://github.com/mihaelamj/cvbuilder), a generic CV builder.
 - [Templatomat](https://github.com/Templatomat), Xcode template tooling and archives.
 - [Cjenoslava](https://github.com/Cjenoslava), Swift data models, parsers, and persistence for Croatian price tracking.
 
